@@ -10,3 +10,5 @@ Imagine my partner wrote and pushed this to GitHub!
 - Next change
 
 Hello, this is a test
+
+Trying to stage
